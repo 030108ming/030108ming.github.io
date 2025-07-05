@@ -23,12 +23,12 @@ I am an incoming PhD student in Computer Science at the University of Texas at A
 
 # Publications 
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2024.05* Second Prize, RoboCup China 2024.
 - *2023.07* Second Prize, RoboCup China 2023.
 - *2022.11* Second Prize, RoboCup China 2022.
 
-# 📖 Educations
+# Educations
 - *2021.09 – 2025.06*, B.E. Biomedical Engineering,, Shanghai Jiao Tong University. 
 
 # Small Talk
