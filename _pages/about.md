@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an incoming PhD student in Computer Science at the University of Texas at Arlington. My research interests include computer vision and medical image analysis, particularly cardiac MRI segmentation. I completed my undergraduate studies in Biomedical Engineering at Shanghai Jiao Tong University. Outside of research, I enjoy playing basketball.
+I am an incoming PhD student in Computer Science at the University of Texas at Arlington. My research interests include computer vision and medical image analysis, with a focus on cardiac MRI segmentation. I completed my undergraduate studies in Biomedical Engineering at Shanghai Jiao Tong University.
+
+I enjoy interdisciplinary challenges that combine healthcare and artificial intelligence, and I'm passionate about using technology to support real-world clinical applications. Outside of research, I’m an ENFP who thrives on creativity and collaboration. In my free time, I enjoy playing basketball and badminton, which keep me active and balanced.
 
 # News
 
