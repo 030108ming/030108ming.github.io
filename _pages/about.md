@@ -31,7 +31,8 @@ I enjoy interdisciplinary challenges that combine healthcare and artificial inte
 - *2022.11* Second Prize, RoboCup China 2022.
 
 # Educations
-- *2021.09 – 2025.06*, B.E. Biomedical Engineering,, Shanghai Jiao Tong University. 
+- *2021.09 – 2025.06*, B.E. Biomedical Engineering, Shanghai Jiao Tong University.
+- *2025.08 - present*, PhD  Computer Science, University of Texas at Arlington
 
 # Small Talk
 
