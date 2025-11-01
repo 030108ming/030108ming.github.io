@@ -24,7 +24,6 @@ I enjoy tackling interdisciplinary challenges that bridge artificial intelligenc
 
 # News
 
-# Publications 
 
 # Honors and Awards
 - *2024.05* Second Prize, RoboCup China 2024.
@@ -36,6 +35,5 @@ I enjoy tackling interdisciplinary challenges that bridge artificial intelligenc
 - *2021.09 – 2025.06*, B.E. Biomedical Engineering, Shanghai Jiao Tong University.
 
 
-# Small Talk
 
 # Experience
