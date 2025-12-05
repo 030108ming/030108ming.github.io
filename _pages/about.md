@@ -23,6 +23,8 @@ I enjoy tackling interdisciplinary challenges that bridge artificial intelligenc
 
 
 # News
+- *2025.08* Serving as Teaching Assistant for CSE 4310 (Fundamentals of Computer Vision), Section 001
+- *2025.08* Started PhD in Computer Science at University of Texas at Arlington
 
 
 # Honors and Awards
@@ -37,3 +39,4 @@ I enjoy tackling interdisciplinary challenges that bridge artificial intelligenc
 
 
 # Experience
+- *2025.01 - present*, Teaching Assistant for CSE 4310: Fundamentals of Computer Vision (Section 001), University of Texas at Arlington
