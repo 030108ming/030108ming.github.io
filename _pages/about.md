@@ -39,7 +39,7 @@ I enjoy tackling interdisciplinary challenges that bridge artificial intelligenc
 
 
 # Experience
-- *2025.01 - 2025.12*, Teaching Assistant for CSE 4310: Fundamentals of Computer Vision (Section 001), University of Texas at Arlington
-- *2025.01 - present*, Department of Radiology, NYU Grossman School of Medicine  
+- *2025.08 - 2025.12*, Teaching Assistant for CSE 4310: Fundamentals of Computer Vision (Section 001), University of Texas at Arlington
+- *2025.08 - present*, Department of Radiology, NYU Grossman School of Medicine  
   Non-traditional Volunteer (Supervisor: Prof. Leon Axel)
 - *2026.01 - present*, Teaching Assistant for CSE 4308: Artificial Intelligence (Section 004), University of Texas at Arlington
