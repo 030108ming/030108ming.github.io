@@ -23,6 +23,7 @@ I enjoy tackling interdisciplinary challenges that bridge artificial intelligenc
 
 
 # News
+- 2026.08 Two papers accepted at **STACOM 2026** (MICCAI Workshop)! 🎉
 - *2025.08* Serving as Teaching Assistant for CSE 4310 (Fundamentals of Computer Vision), Section 001
 - *2025.08* Started PhD in Computer Science at University of Texas at Arlington
 
