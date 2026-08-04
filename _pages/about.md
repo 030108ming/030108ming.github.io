@@ -19,28 +19,51 @@ redirect_from:
 
 I am a PhD student in Computer Science at the University of Texas at Arlington. My research focuses on computer vision and medical image super-resolution, aiming to enhance the quality and diagnostic value of MRI and CT images through deep learning. I am currently working on developing advanced reconstruction models for cardiac MRI.
 
-I enjoy tackling interdisciplinary challenges that bridge artificial intelligence and healthcare, with the goal of translating computational innovations into practical clinical tools. Outside of research, I’m an ENFP who values creativity and collaboration. In my free time, I enjoy playing basketball and badminton, which keep me energized and balanced.
+I enjoy tackling interdisciplinary challenges that bridge artificial intelligence and healthcare, with the goal of translating computational innovations into practical clinical tools. Outside of research, I'm an ENFP who values creativity and collaboration. In my free time, I enjoy playing basketball and badminton, which keep me energized and balanced.
 
+<span class='anchor' id='news'></span>
 
 # News
-- 2026.08 Two papers accepted at **STACOM 2026** (MICCAI Workshop)! 🎉
+
+- *2026.08* Two papers accepted at **STACOM 2026** (MICCAI Workshop), both selected for **oral presentation**! 🎉
+- *2026.01* Serving as Teaching Assistant for CSE 4308 (Artificial Intelligence), Section 004
 - *2025.08* Serving as Teaching Assistant for CSE 4310 (Fundamentals of Computer Vision), Section 001
 - *2025.08* Started PhD in Computer Science at University of Texas at Arlington
 
+<span class='anchor' id='publications'></span>
+
+# Publications
+
+- **Cardiac MRI Through-Plane Super-Resolution Guided by Reference and Memory.**  
+  **Shaoming Pan**, Chenchuhui Hu, Leon Axel, Meng Ye.  
+  *International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) Workshop STACOM*, 2026. **(Oral)**  
+  [[Code](https://github.com/030108ming/STRMSR)]
+
+- **Bi-PT: Bidirectional Cross-Attention Point Transformers for Four-Chamber Heart Reconstruction from Sparse Cardiac MRI Data.**  
+  Chenchuhui Hu, **Shaoming Pan**, Leon Axel, Meng Ye.  
+  *International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) Workshop STACOM*, 2026. **(Oral)**  
+  [[Code](https://github.com/Chenchuhui/Bi-PT)]
+
+<span class='anchor' id='honors'></span>
 
 # Honors and Awards
+
 - *2024.05* Second Prize, RoboCup China 2024.
 - *2023.07* Second Prize, RoboCup China 2023.
 - *2022.11* Second Prize, RoboCup China 2022.
 
+<span class='anchor' id='educations'></span>
+
 # Educations
-- *2025.08 - present*, PhD  Computer Science, University of Texas at Arlington
-- *2021.09 – 2025.06*, B.E. Biomedical Engineering, Shanghai Jiao Tong University.
 
+- *2025.08 - present*, PhD in Computer Science, University of Texas at Arlington.
+- *2021.09 - 2025.06*, B.E. in Biomedical Engineering, Shanghai Jiao Tong University.
 
+<span class='anchor' id='experience'></span>
 
 # Experience
-- *2025.08 - 2025.12*, Teaching Assistant for CSE 4310: Fundamentals of Computer Vision (Section 001), University of Texas at Arlington
-- *2025.08 - present*, Department of Radiology, NYU Grossman School of Medicine  
-  Non-traditional Volunteer (Supervisor: Prof. Leon Axel)
-- *2026.01 - present*, Teaching Assistant for CSE 4308: Artificial Intelligence (Section 004), University of Texas at Arlington
+
+- *2026.01 - present*, Teaching Assistant for CSE 4308: Artificial Intelligence (Section 004), University of Texas at Arlington.
+- *2025.08 - present*, Department of Radiology, NYU Grossman School of Medicine.  
+  Non-Teaching Volunteer (Supervisor: Prof. Leon Axel).
+- *2025.08 - 2025.12*, Teaching Assistant for CSE 4310: Fundamentals of Computer Vision (Section 001), University of Texas at Arlington.
