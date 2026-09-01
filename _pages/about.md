@@ -25,7 +25,7 @@ I enjoy tackling interdisciplinary challenges that bridge artificial intelligenc
 
 # News
 
-- *2026.08* Two papers accepted at **STACOM 2026** (MICCAI Workshop), both selected for **oral presentation**! 🎉
+- *2026.08* Two papers accepted at **STACOM 2026** (MICCAI Workshop)! 🎉
 - *2026.01* Serving as Teaching Assistant for CSE 4308 (Artificial Intelligence), Section 004
 - *2025.08* Serving as Teaching Assistant for CSE 4310 (Fundamentals of Computer Vision), Section 001
 - *2025.08* Started PhD in Computer Science at University of Texas at Arlington
@@ -45,7 +45,7 @@ In <i>International Conference on Medical Image Computing and Computer Assisted 
 <p>
 [1] <b>Cardiac MRI Through-Plane Super-Resolution Guided by Reference and Memory.</b><br>
 <b>Shaoming Pan</b>, Chenchuhui Hu, Leon Axel, Meng Ye.<br>
-In <i>International Conference on Medical Image Computing and Computer Assisted Intervention</i> (<b><i>MICCAI</i></b>) <i>Workshop</i> <b><i>STACOM</i></b>, 2026. (<span style="color:#e74c3c;">Oral</span>) [<a href="https://github.com/030108ming/STRMSR">Code</a>]
+In <i>International Conference on Medical Image Computing and Computer Assisted Intervention</i> (<b><i>MICCAI</i></b>) <i>Workshop</i> <b><i>STACOM</i></b>, 2026. [<a href="https://github.com/030108ming/STRMSR">Code</a>]
 </p>
 
 </div>
