@@ -39,13 +39,15 @@ I enjoy tackling interdisciplinary challenges that bridge artificial intelligenc
 <p>
 [2] <b>Bi-PT: Bidirectional Cross-Attention Point Transformers for Four-Chamber Heart Reconstruction from Sparse Cardiac MRI Data.</b><br>
 Chenchuhui Hu, <b>Shaoming Pan</b>, Leon Axel, Meng Ye.<br>
-In <i>International Conference on Medical Image Computing and Computer Assisted Intervention</i> (<b><i>MICCAI</i></b>) <i>Workshop</i> <b><i>STACOM</i></b>, 2026. (<span style="color:#e74c3c;">Oral</span>) [<a href="https://github.com/Chenchuhui/Bi-PT">Code</a>]
+In <i>International Conference on Medical Image Computing and Computer Assisted Intervention</i> (<b><i>MICCAI</i></b>) <i>Workshop</i> <b><i>STACOM</i></b>, 2026. (<span style="color:#e74c3c;">Oral</span>)
+[<a href="https://arxiv.org/abs/2607.06923">arXiv</a>] [<a href="https://arxiv.org/pdf/2607.06923">PDF</a>] [<a href="https://github.com/Chenchuhui/Bi-PT">Code</a>]
 </p>
 
 <p>
 [1] <b>Cardiac MRI Through-Plane Super-Resolution Guided by Reference and Memory.</b><br>
 <b>Shaoming Pan</b>, Chenchuhui Hu, Leon Axel, Meng Ye.<br>
-In <i>International Conference on Medical Image Computing and Computer Assisted Intervention</i> (<b><i>MICCAI</i></b>) <i>Workshop</i> <b><i>STACOM</i></b>, 2026. [<a href="https://github.com/030108ming/STRMSR">Code</a>]
+In <i>International Conference on Medical Image Computing and Computer Assisted Intervention</i> (<b><i>MICCAI</i></b>) <i>Workshop</i> <b><i>STACOM</i></b>, 2026.
+[<a href="https://arxiv.org/abs/2607.07581">arXiv</a>] [<a href="https://arxiv.org/pdf/2607.07581">PDF</a>] [<a href="https://github.com/030108ming/STRMSR">Code</a>]
 </p>
 
 </div>
