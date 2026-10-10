@@ -23,7 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shaoming Pan"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "PhD student in Computer Science at UT Arlington"
+  bio              : "PhD student in Computer Science, University of Texas at Arlington"
+  cv               : "assets/Shaoming_PAN_CV.pdf"
   location         : "TX, US"
   employer         :
   pubmed           : 
