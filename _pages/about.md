@@ -38,7 +38,7 @@ I enjoy tackling interdisciplinary challenges that bridge artificial intelligenc
 
 - *2026.08* Two papers accepted at **STACOM 2026** (MICCAI Workshop)! 🎉
 - *2026.01* Serving as Teaching Assistant for CSE 4308 (Artificial Intelligence), Section 004
-- *2025.08* Serving as Teaching Assistant for CSE 4310 (Fundamentals of Computer Vision), Section 001
+- *2025.08* Serving as Teaching Assistant for CSE 4310 (Fundamentals of Computer Vision)
 - *2025.08* Started PhD in Computer Science at University of Texas at Arlington
 
 </div>
@@ -109,8 +109,8 @@ I enjoy tackling interdisciplinary challenges that bridge artificial intelligenc
 
 <div class="timeline" markdown="1">
 
-- *2026.01 – present* **Teaching Assistant**, CSE 4308: Artificial Intelligence (Section 004), University of Texas at Arlington
+- *2025.08 – present* **Teaching Assistant**, CSE 4310: Fundamentals of Computer Vision, University of Texas at Arlington
 - *2025.08 – present* **Non-Teaching Volunteer**, Department of Radiology, NYU Grossman School of Medicine (Supervisor: Prof. Leon Axel)
-- *2025.08 – 2025.12* **Teaching Assistant**, CSE 4310: Fundamentals of Computer Vision (Section 001), University of Texas at Arlington
+- *2026.01 – 2026.05* **Teaching Assistant**, CSE 4308: Artificial Intelligence (Section 004), University of Texas at Arlington
 
 </div>
