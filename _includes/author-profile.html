@@ -32,7 +32,7 @@
     {% if author.uri %}<li><a href="{{ author.uri }}" title="Website"><i class="fas fa-fw fa-link" aria-hidden="true"></i>Website</a></li>{% endif %}
   </ul>
 
-  {% if author.cv %}
-  <a class="profile-card__cv" href="{{ author.cv }}"><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i>Download CV</a>
+  {% if author.status %}
+  <div class="profile-card__status"><span class="profile-card__status-dot" aria-hidden="true"></span>{{ author.status }}</div>
   {% endif %}
 </div>
