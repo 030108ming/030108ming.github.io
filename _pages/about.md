@@ -30,6 +30,11 @@ I enjoy tackling interdisciplinary challenges that bridge artificial intelligenc
   <li>Computer Vision</li>
 </ul>
 
+<div class="callout">
+  <i class="fas fa-briefcase" aria-hidden="true"></i>
+  <p><strong>I am actively seeking internship opportunities</strong> in medical imaging, computer vision, and deep learning. If you think I could be a good fit for your team, please feel free to <a href="mailto:{{ site.author.email }}">reach out by email</a>.</p>
+</div>
+
 <span class='anchor' id='news'></span>
 
 # News
